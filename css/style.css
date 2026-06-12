@@ -47,7 +47,7 @@ a {
 
 h2 {
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 700;
   color: #f9faf8;
   line-height: 1.05;
   margin-bottom: 12px;
@@ -60,10 +60,12 @@ h2 {
 .hero button {
   background-color: #3882f6;
   color: #e5e7eb;
-  padding: 6px 12px;
+  padding: 8px 24px;
   border-radius: 8px;
   margin: 0;
   border: none;
+  font-size: 14px;
+  font-weight: 600;
 }
 .hero img {
   flex-grow: 0 0 auto;
@@ -79,7 +81,7 @@ section {
 h3 {
   font-size: 36px;
   color: #1f2937;
-  font-weight: 900;
+  font-weight: 750;
   text-align: center;
   margin: 0 auto;
   margin-bottom: 48px;
@@ -95,7 +97,7 @@ h3 {
   display: block;
   margin: 0 auto;
   margin-bottom: 24px;
-  border: 2px solid #1f2937;
+  border: 3px solid #1f2937;
   border-radius: 8px;
   padding: 12px;
 }
